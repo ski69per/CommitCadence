@@ -30,7 +30,12 @@ The grid editor allows you to select commit intensity per day and preview how th
 ```bash
 git clone https://github.com/ski69per/CommitCadence.git
 cd CommitCadence
+
+# For Mac/Linux users:
 bash automate.sh
+
+# For Windows users (or if you prefer Python):
+python automate.py
 ```
 
 Follow the prompts to enter your GitHub email, repository details, and a Sunday start date. Design your pattern in the grid editor and let the script handle the rest.
