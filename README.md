@@ -40,8 +40,13 @@ python automate.py
 
 Follow the prompts to enter your GitHub email, repository details, and a Sunday start date. Design your pattern in the grid editor and let the script handle the rest.
 
+## Important
+
+**Email Verification:** The email you enter must be verified in your GitHub account settings at https://github.com/settings/emails. Commits will only appear on YOUR contribution graph if the email matches YOUR GitHub account.
+
 ## Notes
 
 - Start dates must be Sundays to align with GitHub's calendar
 - Contributions appear on your public profile
 - Remove the design by deleting or privatizing the repository
+- Each person should use their own verified GitHub email to see commits on their profile
